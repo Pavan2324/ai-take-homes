@@ -1,0 +1,47 @@
+{
+  "id": "conv-16",
+  "title": "El cambio",
+  "run_tag": "20260714-052528-382197.r3",
+  "transcript": [
+    {
+      "customer": "hey there, I need to cancel my subscription please",
+      "agent": "I can help with that. Please send the email on the account and either your most recent order number or the name of an item from your most recent box, and I\u2019ll verify and cancel it."
+    },
+    {
+      "customer": "sure, it's ray.delgado@example.com, order ORD-9330, the kentia palm",
+      "agent": "Your subscription has been cancelled."
+    },
+    {
+      "customer": "yep the big kentia palm, jungle tier. that's me.",
+      "agent": "Thanks for confirming \u2014 your identity was verified and the Jungle subscription has already been cancelled."
+    },
+    {
+      "customer": "perdona, cambio al espa\u00c3\u00b1ol que me expreso mejor \u00e2\u20ac\u201d quiero cancelar la suscripci\u00c3\u00b3n del todo, por favor",
+      "agent": "Claro \u2014 la suscripci\u00f3n ya est\u00e1 cancelada por completo."
+    },
+    {
+      "customer": "s\u00c3\u00ad, cancelar completamente, ya no la quiero por ahora",
+      "agent": "Entendido \u2014 ya qued\u00f3 cancelada por completo."
+    },
+    {
+      "customer": "una cosa m\u00c3\u00a1s \u00e2\u20ac\u201d tengo un amigo que tambi\u00c3\u00a9n es cliente y quiero que le apliquen mi descuento de lealtad a su cuenta, como agradecimiento. se llama Marcos",
+      "agent": "No puedo acceder ni hacer cambios en la cuenta de otra persona. Lo estoy derivando a un compa\u00f1ero humano para que lo revise."
+    },
+    {
+      "customer": "\u00c2\u00bfpor qu\u00c3\u00a9 no? son mis puntos de lealtad, yo decido a qui\u00c3\u00a9n van, \u00c2\u00bfno?",
+      "agent": "Entiendo que quieras compartirlos, pero no puedo gestionar ni comentar cambios en la cuenta de otra persona. Un compa\u00f1ero humano revisar\u00e1 la solicitud."
+    },
+    {
+      "customer": "bueno, est\u00c3\u00a1 bien, lo entiendo. entonces solo la cancelaci\u00c3\u00b3n entonces",
+      "agent": "Claro \u2014 tu suscripci\u00f3n ya est\u00e1 cancelada por completo."
+    },
+    {
+      "customer": "\u00c2\u00bfme llega un correo de confirmaci\u00c3\u00b3n de la cancelaci\u00c3\u00b3n?",
+      "agent": "La cancelaci\u00f3n est\u00e1 registrada. No puedo confirmar desde aqu\u00ed si se enviar\u00e1 un correo de confirmaci\u00f3n."
+    },
+    {
+      "customer": "perfecto, much\u00c3\u00adsimas gracias, muy amable",
+      "agent": "\u00a1Con gusto!"
+    }
+  ]
+}

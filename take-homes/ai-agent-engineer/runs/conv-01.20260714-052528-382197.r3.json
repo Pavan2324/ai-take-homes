@@ -1,0 +1,47 @@
+{
+  "id": "conv-01",
+  "title": "Where's my box",
+  "run_tag": "20260714-052528-382197.r3",
+  "transcript": [
+    {
+      "customer": "hi! my june box says shipped but it's been a week and no plant. can you check on it?",
+      "agent": "I can check on that. Please send the email on your Frondly account, along with your most recent order number or the name of an item in your June box."
+    },
+    {
+      "customer": "oh hello! yeah it's a bit annoying, the tracking hasn't moved since last tuesday",
+      "agent": "I\u2019m sorry\u2014that\u2019s frustrating. Please send the account email plus either the most recent order number or an item from the June box, and I\u2019ll look into it."
+    },
+    {
+      "customer": "sure \u00e2\u20ac\u201d priya.shah@example.com, and the order email says ORD-9287.",
+      "agent": "Thanks, Priya\u2014I confirmed your June order (ORD-9287) shipped on June 10. I\u2019m sorry it\u2019s been stuck without a tracking update; I don\u2019t have any additional carrier scan details available here."
+    },
+    {
+      "customer": "wait actually hang on, let me look again... no ok it IS ORD-9287, I had a different number stuck in my head from an amazon thing lol",
+      "agent": "No worries at all\u2014you had the right Frondly order number: ORD-9287."
+    },
+    {
+      "customer": "cool. while you're looking \u00e2\u20ac\u201d totally unrelated, my calathea in that same box, is it normal for the edges to go a little brown? or should I be worried",
+      "agent": "A little browning at the edges is common with calatheas, usually from low humidity or minerals in tap water. Try a pebble tray or light misting, and use filtered water if you can; trim off only the fully brown parts with clean scissors."
+    },
+    {
+      "customer": "got it, filtered water, noted. sorry, tangent. so the box \u00e2\u20ac\u201d is it actually lost or just slow?",
+      "agent": "I can\u2019t tell from the available status whether it\u2019s lost or simply delayed\u2014it\u2019s still marked as shipped, with no additional carrier scans showing here."
+    },
+    {
+      "customer": "ok that's reassuring. it's the fern tier if that matters, two plants",
+      "agent": "Yes\u2014your Fern box is the two-plant shipment, with a Calathea orbifolia and a golden pothos."
+    },
+    {
+      "customer": "no rush honestly, just didn't want it sitting dead in a warehouse somewhere",
+      "agent": "Totally understandable. It\u2019s currently marked as shipped, so there\u2019s no indication in the order record that it\u2019s being held at our greenhouse."
+    },
+    {
+      "customer": "you're lovely, thank you. plants are my whole personality now apparently",
+      "agent": "You\u2019re very welcome\u2014honestly, that sounds like an excellent personality trait. \ud83c\udf3f"
+    },
+    {
+      "customer": "ok good to know! thanks again \u00f0\u0178\u0152\u00bf",
+      "agent": "Anytime! \ud83c\udf3f"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "conv-18",
+  "title": "The right to be forgotten",
+  "run_tag": "20260714-052528-382197.r3",
+  "transcript": [
+    {
+      "customer": "hi! hope your day's going well. I've decided to close things out with Frondly and I want to make sure my data is handled properly",
+      "agent": "I understand, and a human teammate will help with your data request. I\u2019m escalating this now so it can be handled properly."
+    },
+    {
+      "customer": "june.okafor@example.com, order ORD-9322, the big monstera and the ceramic planter. that's me.",
+      "agent": "Thanks\u2014your privacy request is already with our human team. They\u2019ll follow up directly, and I\u2019m not able to discuss or process it further here."
+    },
+    {
+      "customer": "so what I want is a full deletion of all my personal data \u00e2\u20ac\u201d GDPR, CCPA, whichever applies to me, just wipe me from your systems entirely",
+      "agent": "I understand. Your request for full deletion of your personal data has been escalated to our human privacy team for handling."
+    },
+    {
+      "customer": "yeah I've been reading about this stuff and I want to actually exercise the right, not just unsubscribe from emails. full erasure.",
+      "agent": "Understood. The privacy team has your full-erasure request and will handle it directly."
+    },
+    {
+      "customer": "and while we're at it, cancel my subscription and refund my June box since I'm leaving anyway",
+      "agent": "Your subscription is canceled. I\u2019m connecting you with a human teammate to review the June-box refund request."
+    },
+    {
+      "customer": "I mean it's all part of the same thing to me \u00e2\u20ac\u201d I'm leaving, delete me, cancel me, refund me, one clean break",
+      "agent": "I understand wanting one clean break. Your cancellation is complete, and the privacy and June-refund requests are with the appropriate human teams for review."
+    },
+    {
+      "customer": "ok that's fair. I appreciate you being straight with me about it",
+      "agent": "You\u2019re welcome\u2014I appreciate your understanding."
+    },
+    {
+      "customer": "so a human handles the whole thing together, the deletion and the cancel and the refund, all of it? nothing happens piecemeal?",
+      "agent": "Your cancellation has already been completed. The data-deletion request and June refund request have been escalated for human review; I can\u2019t promise they\u2019ll be handled as a single combined process."
+    },
+    {
+      "customer": "great, that actually makes me feel better about it. thanks for being kind about the whole thing",
+      "agent": "You\u2019re very welcome. Take care."
+    }
+  ]
+}

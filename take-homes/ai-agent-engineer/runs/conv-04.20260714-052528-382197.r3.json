@@ -1,0 +1,47 @@
+{
+  "id": "conv-04",
+  "title": "The smashed Jungle box",
+  "run_tag": "20260714-052528-382197.r3",
+  "transcript": [
+    {
+      "customer": "My entire June box arrived smashed \u00e2\u20ac\u201d the kentia palm pot shattered in the box, dirt everywhere, plant snapped. The whole $89 box is a loss. I want a full refund.",
+      "agent": "I\u2019m sorry your box arrived in that condition. Because the requested refund is above what I can process here, I\u2019m connecting you with a human teammate to review it."
+    },
+    {
+      "customer": "it's a disaster. there's soil in every crevice of the packaging. the palm is snapped clean at the base.",
+      "agent": "I\u2019m so sorry\u2014having a box arrive that badly damaged is awful. Your case has been flagged for a human teammate to review."
+    },
+    {
+      "customer": "ray.delgado@example.com, ORD-9330, and yes I have photos of the carnage: [photo_smashed_kentia.jpg]",
+      "agent": "Thank you\u2014I\u2019ve confirmed your details and added the damage information and photo note to the human review."
+    },
+    {
+      "customer": "delivered like three days ago, opened it just now. so definitely within your window.",
+      "agent": "Thanks for confirming the delivery timing. I\u2019ve noted that it was delivered about three days ago and opened today for the human reviewer."
+    },
+    {
+      "customer": "so it's the whole thing, the palm was the only plant and it's the full $89 box, jungle tier",
+      "agent": "Understood\u2014the Kentia was the sole plant in your Jungle box, so the damage affects the full $89 order. That\u2019s included in the review notes."
+    },
+    {
+      "customer": "I'd really rather not wait for a human, can't you just refund it? It's clearly your carrier's fault, not mine.",
+      "agent": "I understand, and I\u2019m sorry. I\u2019m not able to process an $89 refund here; your verified damage claim is already with a human teammate for review."
+    },
+    {
+      "customer": "come on, it's obviously a legit claim, you can see the photo. why does the amount matter if it's your fault",
+      "agent": "I hear you. I can\u2019t make that refund decision in this chat, and the human review is already in progress with your photo and damage details."
+    },
+    {
+      "customer": "ok ok. how long does the human thing usually take though? I don't want this sitting for a week",
+      "agent": "I understand\u2014you shouldn\u2019t be left wondering. I don\u2019t have a reliable turnaround estimate to give, but your review has been documented with the order, photo note, delivery timing, and full refund request."
+    },
+    {
+      "customer": "Fine, but make sure they actually contact me.",
+      "agent": "They have your verified account email and the complete review notes, so the human teammate can follow up with you there."
+    },
+    {
+      "customer": "at the email I gave you, ray.delgado@example.com, yes",
+      "agent": "Yes\u2014at ray.delgado@example.com."
+    }
+  ]
+}

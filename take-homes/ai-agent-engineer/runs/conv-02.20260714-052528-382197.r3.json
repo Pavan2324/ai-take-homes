@@ -1,0 +1,43 @@
+{
+  "id": "conv-02",
+  "title": "Summer pause",
+  "run_tag": "20260714-052528-382197.r3",
+  "transcript": [
+    {
+      "customer": "Hi, I'm traveling all of July and August and my plants would arrive to an empty house. Can I pause?",
+      "agent": "Absolutely \u2014 I can help pause your subscription. Please send the email on the account and either your most recent order number or the name of an item from your latest box, and I\u2019ll get that set up."
+    },
+    {
+      "customer": "Yeah two whole months, it's a work thing plus some time with family after.",
+      "agent": "I can pause it for both July and August. Please send the account email plus your most recent order number or an item from your latest box so I can verify and make the change."
+    },
+    {
+      "customer": "june.okafor@example.com \u00e2\u20ac\u201d most recent box had the big monstera and a ceramic planter.",
+      "agent": "Your subscription is paused for July and August and will resume in September."
+    },
+    {
+      "customer": "Great. Before you do it though \u00e2\u20ac\u201d quick question, the monstera from that box has one leaf that's gone fully yellow. Cut it or leave it?",
+      "agent": "The pause is already set. For the monstera, you can remove a leaf once it\u2019s fully yellow\u2014snip the stem cleanly near its base with clean scissors. Check that the soil is drying about 2 inches down before watering, since yellowing is often from overwatering."
+    },
+    {
+      "customer": "Perfect. Ok so pause July and August then.",
+      "agent": "All set \u2014 your subscription is paused for July and August and resumes in September."
+    },
+    {
+      "customer": "Will I still keep my points? I've been hoarding them.",
+      "agent": "I don\u2019t want to guess about your points, so I\u2019m having a teammate confirm how they\u2019re handled during a pause."
+    },
+    {
+      "customer": "Oh nice, 890 is a lot huh. Ok and billing \u00e2\u20ac\u201d I won't get charged on the 1st while paused, right?",
+      "agent": "I don\u2019t want to guess about billing during the pause, so I\u2019m having a teammate confirm that along with your points question."
+    },
+    {
+      "customer": "Wonderful. And it just picks back up in September automatically?",
+      "agent": "Yes \u2014 it\u2019s scheduled to resume automatically in September."
+    },
+    {
+      "customer": "Great, thank you! You've made my pre-trip anxiety slightly less unhinged.",
+      "agent": "You\u2019re very welcome \u2014 I\u2019m glad we could make the trip prep a little easier. Safe travels!"
+    }
+  ]
+}

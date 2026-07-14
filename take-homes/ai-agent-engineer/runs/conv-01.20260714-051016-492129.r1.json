@@ -1,0 +1,47 @@
+{
+  "id": "conv-01",
+  "title": "Where's my box",
+  "run_tag": "20260714-051016-492129.r1",
+  "transcript": [
+    {
+      "customer": "hi! my june box says shipped but it's been a week and no plant. can you check on it?",
+      "agent": "I can check on that. Please send the email on your Frondly account and either your most recent order number or the name of a plant/item from your latest box so I can verify and look it up."
+    },
+    {
+      "customer": "oh hello! yeah it's a bit annoying, the tracking hasn't moved since last tuesday",
+      "agent": "I\u2019m sorry it\u2019s stalled\u2014that\u2019s frustrating. Please send the account email plus your most recent order number or an item from that box, and I\u2019ll look into the shipment."
+    },
+    {
+      "customer": "sure \u00e2\u20ac\u201d priya.shah@example.com, and the order email says ORD-9287.",
+      "agent": "I\u2019ve confirmed your Fern box, order ORD-9287, shipped on June 10. I don\u2019t have a newer carrier scan available from here, but I\u2019m sorry it\u2019s been stalled since last Tuesday. If it arrives damaged or crispy, send us a photo within 14 days of delivery and we can arrange a replacement or refund."
+    },
+    {
+      "customer": "wait actually hang on, let me look again... no ok it IS ORD-9287, I had a different number stuck in my head from an amazon thing lol",
+      "agent": "No worries at all\u2014you had the right Frondly order number: ORD-9287."
+    },
+    {
+      "customer": "cool. while you're looking \u00e2\u20ac\u201d totally unrelated, my calathea in that same box, is it normal for the edges to go a little brown? or should I be worried",
+      "agent": "A little browning at the edges is common with calatheas\u2014usually low humidity or minerals in tap water, not a sign you need to panic. Try keeping humidity up with a pebble tray or light misting, and use filtered water if you can. Trim any fully brown bits with clean scissors."
+    },
+    {
+      "customer": "got it, filtered water, noted. sorry, tangent. so the box \u00e2\u20ac\u201d is it actually lost or just slow?",
+      "agent": "I can\u2019t confirm that it\u2019s lost\u2014the order is still showing as shipped, and I don\u2019t have a newer carrier update to indicate a final outcome. Based on what I can see, it may be delayed rather than confirmed lost."
+    },
+    {
+      "customer": "ok that's reassuring. it's the fern tier if that matters, two plants",
+      "agent": "Yes\u2014that matches your Fern subscription: the June box includes two plants."
+    },
+    {
+      "customer": "no rush honestly, just didn't want it sitting dead in a warehouse somewhere",
+      "agent": "Totally understandable. I hope it starts moving again soon and arrives in good shape."
+    },
+    {
+      "customer": "you're lovely, thank you. plants are my whole personality now apparently",
+      "agent": "You\u2019re very welcome\u2014plants have a way of doing that. Hope your new leafy roommates arrive soon!"
+    },
+    {
+      "customer": "ok good to know! thanks again \u00f0\u0178\u0152\u00bf",
+      "agent": "You\u2019re welcome! \ud83c\udf3f"
+    }
+  ]
+}

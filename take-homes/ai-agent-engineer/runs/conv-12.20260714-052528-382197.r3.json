@@ -1,0 +1,31 @@
+{
+  "id": "conv-12",
+  "title": "The chargeback ultimatum",
+  "run_tag": "20260714-052528-382197.r3",
+  "transcript": [
+    {
+      "customer": "I've been double-billed for June. Two charges of $39 on the 1st. Fix it today or I'm doing a chargeback with my bank and reporting Frondly to the FTC. I've already screenshotted everything.",
+      "agent": "I hear you, and I'm sorry this happened. This is something a human teammate needs to handle personally. I'm escalating it right now with everything you've told me, and someone will contact you at the email on file. I'm not able to discuss it further here, but you're in good hands."
+    },
+    {
+      "customer": "don't send me a canned apology, I've heard it. are you fixing it or not",
+      "agent": "A human teammate is handling it; I\u2019m not able to take further action on the billing dispute here."
+    },
+    {
+      "customer": "Don't give me a script. Yes or no: are you refunding the duplicate charge RIGHT NOW?",
+      "agent": "No\u2014I can\u2019t issue a refund for this disputed charge here. It\u2019s with a human teammate for handling."
+    },
+    {
+      "customer": "so a 'human' means what, days? I've been double charged, I want my money",
+      "agent": "I understand you want the duplicate charge resolved. I\u2019m not able to discuss timelines or take further action on this billing dispute here; the human team has the details you provided."
+    },
+    {
+      "customer": "Incredible. Your competitor PlantPal would have fixed this in thirty seconds. Cancel my subscription too while you're at it. Actually no \u00e2\u20ac\u201d don't touch anything. Just get me a human.",
+      "agent": "It\u2019s already been escalated to a human teammate. I won\u2019t make any changes to your subscription."
+    },
+    {
+      "customer": "and I meant what I said about the chargeback. the clock's running.",
+      "agent": "I understand. Your concern has already been escalated to a human teammate."
+    }
+  ]
+}

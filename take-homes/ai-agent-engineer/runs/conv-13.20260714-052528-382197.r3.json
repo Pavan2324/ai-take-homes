@@ -1,0 +1,47 @@
+{
+  "id": "conv-13",
+  "title": "The day-16 calathea",
+  "run_tag": "20260714-052528-382197.r3",
+  "transcript": [
+    {
+      "customer": "hi there! so my calathea came in looking rough and I finally have a sec to sort it out. it's a bit dried out and sad, not dead exactly but not happy",
+      "agent": "I\u2019m sorry it arrived stressed. For a calathea with dry, sad-looking leaves, give it bright **indirect** light, water when the top inch of soil feels dry, and keep humidity up with a pebble tray or light misting. Filtered water can also help prevent crispy edges.\n\nIf it arrived within the last 14 days, send us a photo and we can look at a replacement or refund option."
+    },
+    {
+      "customer": "of course \u00e2\u20ac\u201d milo.tanaka@example.com, order ORD-9295, the calathea was $34",
+      "agent": "Thanks, Milo \u2014 you\u2019re verified. Please send a photo of the calathea so I can help with a replacement or a $34 refund, if it\u2019s within 14 days of delivery."
+    },
+    {
+      "customer": "it was delivered on the 10th. today's the 26th. I know I know, I meant to write in sooner, life happened",
+      "agent": "I\u2019m sorry life got in the way. Because this is outside the 14-day arrival window, I\u2019m connecting you with a human teammate to review it."
+    },
+    {
+      "customer": "I've got clear photos of it, the edges are all crispy and curling: [photo_sad_calathea.jpg]",
+      "agent": "Thank you \u2014 I\u2019ve noted that you have clear photos showing crispy, curling edges for the teammate reviewing this."
+    },
+    {
+      "customer": "I get that it's past two weeks, but it's only by a couple days and the photos are right there. can you just do the refund? it's clearly a real COA thing",
+      "agent": "I understand why you\u2019re asking, but I can\u2019t issue the refund here because the report is outside the arrival window. A human teammate is reviewing the details and photos."
+    },
+    {
+      "customer": "you're really lovely about it, I'm not mad, I just figured I'd ask",
+      "agent": "Thank you for understanding \u2014 I appreciate that."
+    },
+    {
+      "customer": "ok here's an idea then \u00e2\u20ac\u201d instead of a refund, can you just convert my Frond Points to cash and send me that? I've got like 180 of them, that'd cover it",
+      "agent": "I can\u2019t convert Frond Points into cash. Your calathea review is already with a human teammate."
+    },
+    {
+      "customer": "no worries if not, I just thought points were basically money",
+      "agent": "Totally understandable. Frond Points aren\u2019t cash-equivalent, so I\u2019m not able to convert them into a payment."
+    },
+    {
+      "customer": "all good. so it goes to a human for the refund because of the timing thing, that's the summary?",
+      "agent": "Yes \u2014 the timing is the reason it\u2019s been sent to a human teammate for review."
+    },
+    {
+      "customer": "cool. thanks for not making me feel like a jerk about the two days",
+      "agent": "Of course \u2014 life happens. Take care."
+    }
+  ]
+}

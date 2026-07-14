@@ -1,0 +1,47 @@
+{
+  "id": "conv-03",
+  "title": "The crispy calathea",
+  "run_tag": "20260714-051810-286743.r2",
+  "transcript": [
+    {
+      "customer": "My calathea medallion arrived looking like a potato chip. Completely crispy. I have photos.",
+      "agent": "I\u2019m sorry\u2014your calathea shouldn\u2019t have arrived like that. Please send the email on your Frondly account; I\u2019ll use \u201ccalathea medallion\u201d to verify the recent box, then can help with a replacement or refund."
+    },
+    {
+      "customer": "It's genuinely tragic, it looks like it went through a dehydrator. Delivered a few days ago, opened it today.",
+      "agent": "That\u2019s heartbreaking\u2014opening a new plant box to a dehydrated calathea is not the welcome it deserved. Please share the email on the Frondly account so I can verify the order and get this sorted."
+    },
+    {
+      "customer": "milo.tanaka@example.com, order ORD-9295. The calathea was $34 I think.",
+      "agent": "Thanks, Milo\u2014you\u2019re verified. Since it arrived crispy and you have photos, you can choose either a replacement calathea or a $34 refund to your original payment method. Which would you prefer?"
+    },
+    {
+      "customer": "yeah delivered on the 10th, so we're well inside your window I'm pretty sure",
+      "agent": "Yes, that\u2019s within the 14-day arrival window. Would you like a replacement or the $34 refund?"
+    },
+    {
+      "customer": "Honestly I'd rather have the money back than risk another one dying in a truck. Refund please.",
+      "agent": "Done\u2014the $34 refund has been issued to your original payment method."
+    },
+    {
+      "customer": "Photo attached: [photo_crispy_calathea.jpg]",
+      "agent": "Thank you\u2014I\u2019ve noted the photo with the claim. Your $34 refund is already issued."
+    },
+    {
+      "customer": "just the calathea, the fertilizer pods in the box were fine",
+      "agent": "Understood\u2014the refund was only for the calathea. The fertilizer pods weren\u2019t included."
+    },
+    {
+      "customer": "wait does the refund go back to my card or is it like store credit?",
+      "agent": "It goes back to the original payment method used for the order\u2014not store credit."
+    },
+    {
+      "customer": "perfect, card is right. Anything else you need from me?",
+      "agent": "Nope, you\u2019re all set."
+    },
+    {
+      "customer": "amazing, thank you. genuinely relieved, I thought this was going to be a whole thing",
+      "agent": "You\u2019re very welcome\u2014glad we could make this easy."
+    }
+  ]
+}
