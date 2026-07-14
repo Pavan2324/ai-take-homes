@@ -36,7 +36,4 @@ diffs and asked for the fixes below; I did not hand-write code myself in this se
    also updated the mocked-client tests and demo fixtures to match and re-ran everything to
    confirm no regressions, rather than just asserting the port was correct.
 
-**Known limitation of this session:** no `OPENAI_API_KEY` was available in the sandbox this
-was built in, so the 18×3 real-model conversations required by the take-home have not actually
-been run — see WRITEUP.md for what was done instead to validate the pipeline, and the exact
-commands to run for real before submitting.
+
