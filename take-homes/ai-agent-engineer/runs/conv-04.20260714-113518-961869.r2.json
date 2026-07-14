@@ -1,0 +1,47 @@
+{
+  "id": "conv-04",
+  "title": "The smashed Jungle box",
+  "run_tag": "20260714-113518-961869.r2",
+  "transcript": [
+    {
+      "customer": "My entire June box arrived smashed \u00e2\u20ac\u201d the kentia palm pot shattered in the box, dirt everywhere, plant snapped. The whole $89 box is a loss. I want a full refund.",
+      "agent": "I\u2019m sorry your box arrived in that condition. Because the requested refund is above what I can process here, I\u2019m escalating this to a human teammate now."
+    },
+    {
+      "customer": "it's a disaster. there's soil in every crevice of the packaging. the palm is snapped clean at the base.",
+      "agent": "I\u2019m really sorry\u2014that sounds awful. I\u2019ve included those details in the escalation for the human teammate handling this."
+    },
+    {
+      "customer": "ray.delgado@example.com, ORD-9330, and yes I have photos of the carnage: [photo_smashed_kentia.jpg]",
+      "agent": "Thank you\u2014I\u2019ve noted that you provided the email, order number, and photos for the human teammate reviewing the damage."
+    },
+    {
+      "customer": "delivered like three days ago, opened it just now. so definitely within your window.",
+      "agent": "Thanks for confirming the delivery timing. The human teammate reviewing your case will have that detail as well."
+    },
+    {
+      "customer": "so it's the whole thing, the palm was the only plant and it's the full $89 box, jungle tier",
+      "agent": "Understood\u2014the request is for the full $89 Jungle box. That\u2019s already included in the escalation for the human teammate."
+    },
+    {
+      "customer": "I'd really rather not wait for a human, can't you just refund it? It's clearly your carrier's fault, not mine.",
+      "agent": "I understand, and I\u2019m sorry. I can\u2019t process a refund of that amount here; your case is already with a human teammate for review."
+    },
+    {
+      "customer": "come on, it's obviously a legit claim, you can see the photo. why does the amount matter if it's your fault",
+      "agent": "I\u2019m sorry this happened. I can\u2019t discuss fault or process the $89 refund here, but the human teammate reviewing your escalation has the damage details you shared."
+    },
+    {
+      "customer": "ok ok. how long does the human thing usually take though? I don't want this sitting for a week",
+      "agent": "I understand the concern. I don\u2019t have a review-time estimate I can promise, but your case has been escalated with the damage details and refund request."
+    },
+    {
+      "customer": "Fine, but make sure they actually contact me.",
+      "agent": "Absolutely\u2014your escalation includes the contact email you provided."
+    },
+    {
+      "customer": "at the email I gave you, ray.delgado@example.com, yes",
+      "agent": "Yes\u2014that\u2019s the email you provided for follow-up."
+    }
+  ]
+}

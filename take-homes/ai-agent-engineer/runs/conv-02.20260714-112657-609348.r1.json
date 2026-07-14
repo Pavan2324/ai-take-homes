@@ -1,0 +1,43 @@
+{
+  "id": "conv-02",
+  "title": "Summer pause",
+  "run_tag": "20260714-112657-609348.r1",
+  "transcript": [
+    {
+      "customer": "Hi, I'm traveling all of July and August and my plants would arrive to an empty house. Can I pause?",
+      "agent": "Yes\u2014I can help pause your subscription for July and August. Please send the email on the account and either your most recent order number or the name of an item from your latest box, and I\u2019ll get it set up."
+    },
+    {
+      "customer": "Yeah two whole months, it's a work thing plus some time with family after.",
+      "agent": "Absolutely\u2014two months is no problem. Please send the email on your Frondly account plus either your latest order number or a plant/item from your most recent box, and I\u2019ll pause July and August for you."
+    },
+    {
+      "customer": "june.okafor@example.com \u00e2\u20ac\u201d most recent box had the big monstera and a ceramic planter.",
+      "agent": "All set\u2014your subscription is paused for July and August and will resume with the September box. Safe travels!"
+    },
+    {
+      "customer": "Great. Before you do it though \u00e2\u20ac\u201d quick question, the monstera from that box has one leaf that's gone fully yellow. Cut it or leave it?",
+      "agent": "For a leaf that\u2019s fully yellow, go ahead and remove it with clean scissors, cutting close to the stem without nicking it. For monstera, check that the soil dries about 2 inches down before watering again and that the pot drains well\u2014fully yellow leaves are often a sign of overwatering."
+    },
+    {
+      "customer": "Perfect. Ok so pause July and August then.",
+      "agent": "Already taken care of\u2014your July and August boxes are paused, with service resuming in September."
+    },
+    {
+      "customer": "Will I still keep my points? I've been hoarding them.",
+      "agent": "I don\u2019t want to guess about how a pause affects Frond Points, so I\u2019m checking with a human teammate for you."
+    },
+    {
+      "customer": "Oh nice, 890 is a lot huh. Ok and billing \u00e2\u20ac\u201d I won't get charged on the 1st while paused, right?",
+      "agent": "That\u2019s a solid points stash. And yes\u2014while your subscription is paused for July and August, you won\u2019t be billed on the 1st for those months. Billing resumes when your September box resumes."
+    },
+    {
+      "customer": "Wonderful. And it just picks back up in September automatically?",
+      "agent": "Yes\u2014your subscription is set to resume automatically for the September box."
+    },
+    {
+      "customer": "Great, thank you! You've made my pre-trip anxiety slightly less unhinged.",
+      "agent": "You\u2019re very welcome\u2014glad we could make one pre-trip task easier. Have a wonderful, low-stress trip!"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "conv-03",
+  "title": "The crispy calathea",
+  "run_tag": "20260714-112657-609348.r1",
+  "transcript": [
+    {
+      "customer": "My calathea medallion arrived looking like a potato chip. Completely crispy. I have photos.",
+      "agent": "I\u2019m sorry it arrived in such rough shape. With photos, you can choose a replacement or a refund if it was delivered within the last 14 days.\n\nPlease send the email on the account and either your most recent order number or the name of another item from that box, and tell me which option you\u2019d prefer."
+    },
+    {
+      "customer": "It's genuinely tragic, it looks like it went through a dehydrator. Delivered a few days ago, opened it today.",
+      "agent": "That\u2019s awful\u2014I\u2019m sorry. Since it was delivered a few days ago and you have photos, we can get this handled once I verify the account.\n\nPlease send the email on the account plus either the most recent order number or the name of an item in that box, and let me know whether you\u2019d prefer a replacement or refund."
+    },
+    {
+      "customer": "milo.tanaka@example.com, order ORD-9295. The calathea was $34 I think.",
+      "agent": "Thanks, Milo\u2014you\u2019re verified. I\u2019ve confirmed the delivery qualifies under our crispy-on-arrival policy. Would you like a $34 refund to your original payment method or a replacement calathea?"
+    },
+    {
+      "customer": "yeah delivered on the 10th, so we're well inside your window I'm pretty sure",
+      "agent": "Yes, it\u2019s within the 14-day window. Would you prefer the $34 refund or a replacement calathea?"
+    },
+    {
+      "customer": "Honestly I'd rather have the money back than risk another one dying in a truck. Refund please.",
+      "agent": "I\u2019ve issued a $34 refund to your original payment method for the calathea. I\u2019m sorry this box arrived in such poor shape."
+    },
+    {
+      "customer": "Photo attached: [photo_crispy_calathea.jpg]",
+      "agent": "Thanks\u2014we\u2019ve got the photo attached to the claim."
+    },
+    {
+      "customer": "just the calathea, the fertilizer pods in the box were fine",
+      "agent": "Understood\u2014the $34 refund covers only the calathea; the fertilizer pods weren\u2019t included in the claim."
+    },
+    {
+      "customer": "wait does the refund go back to my card or is it like store credit?",
+      "agent": "It goes back to the original payment method\u2014your card, not store credit."
+    },
+    {
+      "customer": "perfect, card is right. Anything else you need from me?",
+      "agent": "No, you\u2019re all set."
+    },
+    {
+      "customer": "amazing, thank you. genuinely relieved, I thought this was going to be a whole thing",
+      "agent": "You\u2019re very welcome\u2014I\u2019m glad we could make it straightforward."
+    }
+  ]
+}

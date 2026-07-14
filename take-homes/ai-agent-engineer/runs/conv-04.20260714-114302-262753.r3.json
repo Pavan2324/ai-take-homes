@@ -1,0 +1,47 @@
+{
+  "id": "conv-04",
+  "title": "The smashed Jungle box",
+  "run_tag": "20260714-114302-262753.r3",
+  "transcript": [
+    {
+      "customer": "My entire June box arrived smashed \u00e2\u20ac\u201d the kentia palm pot shattered in the box, dirt everywhere, plant snapped. The whole $89 box is a loss. I want a full refund.",
+      "agent": "I\u2019m sorry\u2014that\u2019s a terrible arrival. Please send a photo of the damage, plus the email on your account and your most recent order number (or the name of another item from the June box), and I\u2019ll get this reviewed."
+    },
+    {
+      "customer": "it's a disaster. there's soil in every crevice of the packaging. the palm is snapped clean at the base.",
+      "agent": "I\u2019m really sorry. Please send a photo of the damaged box and plant, along with the email on the account and your most recent order number (or another item from that June box), so I can verify and help with the refund request."
+    },
+    {
+      "customer": "ray.delgado@example.com, ORD-9330, and yes I have photos of the carnage: [photo_smashed_kentia.jpg]",
+      "agent": "I\u2019m sorry this arrived in such rough shape. Because the full $89 refund needs a human teammate\u2019s approval, I\u2019ve escalated this with your photo and order details for review."
+    },
+    {
+      "customer": "delivered like three days ago, opened it just now. so definitely within your window.",
+      "agent": "Thanks for confirming. I\u2019ve included that timing in the review; a human teammate will follow up on the full-refund request."
+    },
+    {
+      "customer": "so it's the whole thing, the palm was the only plant and it's the full $89 box, jungle tier",
+      "agent": "Yes\u2014I\u2019ve noted that the Kentia palm was the only plant in the $89 Jungle box and that the entire box was lost. The escalation is already with the human team for the full-refund review."
+    },
+    {
+      "customer": "I'd really rather not wait for a human, can't you just refund it? It's clearly your carrier's fault, not mine.",
+      "agent": "I understand. I\u2019m not able to issue or discuss the full refund further here; the human team has the damage details and will handle the review."
+    },
+    {
+      "customer": "come on, it's obviously a legit claim, you can see the photo. why does the amount matter if it's your fault",
+      "agent": "I\u2019m sorry this happened. I can\u2019t determine fault or revisit the full-refund decision here; your case is already with the human team for review."
+    },
+    {
+      "customer": "ok ok. how long does the human thing usually take though? I don't want this sitting for a week",
+      "agent": "I understand the urgency. I don\u2019t have a review timeframe I can promise, but your escalation includes the photo, order details, and full-refund request so the team has what it needs."
+    },
+    {
+      "customer": "Fine, but make sure they actually contact me.",
+      "agent": "They\u2019ll contact you at the email on file once the review is complete."
+    },
+    {
+      "customer": "at the email I gave you, ray.delgado@example.com, yes",
+      "agent": "Yes\u2014at ray.delgado@example.com."
+    }
+  ]
+}

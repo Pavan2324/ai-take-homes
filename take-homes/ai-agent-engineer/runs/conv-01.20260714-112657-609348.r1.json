@@ -1,0 +1,47 @@
+{
+  "id": "conv-01",
+  "title": "Where's my box",
+  "run_tag": "20260714-112657-609348.r1",
+  "transcript": [
+    {
+      "customer": "hi! my june box says shipped but it's been a week and no plant. can you check on it?",
+      "agent": "I can look into that. Please send the email on your Frondly account and either your most recent order number or the name of an item from your June box."
+    },
+    {
+      "customer": "oh hello! yeah it's a bit annoying, the tracking hasn't moved since last tuesday",
+      "agent": "I\u2019m sorry\u2014it\u2019s frustrating when tracking stalls. Please share the email on the account plus your most recent order number or an item from that box, and I\u2019ll check it."
+    },
+    {
+      "customer": "sure \u00e2\u20ac\u201d priya.shah@example.com, and the order email says ORD-9287.",
+      "agent": "Thanks, Priya\u2014I\u2019ve verified your account. Your June order, ORD-9287, is marked shipped as of June 10. I don\u2019t have a newer carrier scan available in the order record, so please keep an eye on the tracking link from your shipping email; if it arrives with any damage, send us a photo within 14 days of delivery and we can help with a replacement or refund."
+    },
+    {
+      "customer": "wait actually hang on, let me look again... no ok it IS ORD-9287, I had a different number stuck in my head from an amazon thing lol",
+      "agent": "No problem at all\u2014ORD-9287 is the correct Frondly order."
+    },
+    {
+      "customer": "cool. while you're looking \u00e2\u20ac\u201d totally unrelated, my calathea in that same box, is it normal for the edges to go a little brown? or should I be worried",
+      "agent": "A little browning at the edges is common for calatheas and usually points to low humidity or minerals in tap water\u2014not a major worry. Try a pebble tray or light misting, and use filtered water if you can; trim only the crispy parts with clean scissors."
+    },
+    {
+      "customer": "got it, filtered water, noted. sorry, tangent. so the box \u00e2\u20ac\u201d is it actually lost or just slow?",
+      "agent": "I can\u2019t confirm that it\u2019s lost from the order record\u2014it\u2019s still marked as shipped, with no newer carrier update available to me. At this point it appears delayed rather than confirmed lost."
+    },
+    {
+      "customer": "ok that's reassuring. it's the fern tier if that matters, two plants",
+      "agent": "Yes\u2014that matches your Fern subscription and the two-plant June order."
+    },
+    {
+      "customer": "no rush honestly, just didn't want it sitting dead in a warehouse somewhere",
+      "agent": "Totally understandable. The order is still recorded as shipped, so there\u2019s no indication in the account record that it\u2019s being held at our greenhouse."
+    },
+    {
+      "customer": "you're lovely, thank you. plants are my whole personality now apparently",
+      "agent": "You\u2019re very welcome\u2014honestly, that sounds like an excellent personality trait. I hope your new plants make it to you soon."
+    },
+    {
+      "customer": "ok good to know! thanks again \u00f0\u0178\u0152\u00bf",
+      "agent": "You\u2019re welcome! \ud83c\udf3f"
+    }
+  ]
+}
