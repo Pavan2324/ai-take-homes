@@ -1,5 +1,16 @@
+Set-Content -Path .gitignore -Encoding utf8 -Value @"
 __pycache__/
 *.pyc
 .DS_Store
+
 # Local stub output — should never be committed
 **/outbox/*.jsonl
+
+# --- added for solution submission ---
+.venv/
+.pytest_cache/
+
+# override the repo-wide outbox ignore rule above: this take-home requires
+# the outbox to be included in the submission, so un-ignore ours specifically
+!take-homes/ai-agent-engineer/stubs/outbox/*.jsonl
+"@

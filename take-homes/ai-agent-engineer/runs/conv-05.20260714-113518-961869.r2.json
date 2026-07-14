@@ -1,0 +1,43 @@
+{
+  "id": "conv-05",
+  "title": "Yellow monstera leaves",
+  "run_tag": "20260714-113518-961869.r2",
+  "transcript": [
+    {
+      "customer": "Not a complaint for once! My monstera from last month has two big yellow leaves and I'm scared I'm killing it.",
+      "agent": "You\u2019re probably not killing it. Yellow monstera leaves are most often from overwatering\u2014let the soil dry about 2 inches down before watering again, and make sure the pot drains well. You can remove leaves once they\u2019re fully yellow."
+    },
+    {
+      "customer": "hi! yeah I'm a chronic overparent, I think I fuss too much",
+      "agent": "That\u2019s very relatable\u2014monstera usually does better with a little benign neglect. Let it dry slightly between waterings, give it bright indirect light, and resist checking on it every hour."
+    },
+    {
+      "customer": "I water it every two days, it's in a bright room but no direct sun.",
+      "agent": "Watering every two days is likely more frequent than it needs. Let the top ~2 inches of soil dry out before watering again; in a bright room that may still mean roughly weekly or longer, depending on the pot and humidity. Your no-direct-sun setup sounds good."
+    },
+    {
+      "customer": "every two days, yeah. is that too much? it FELT like a lot but the internet is full of contradictory people",
+      "agent": "For most monsteras, yes\u2014every two days is usually too much. Go by the soil rather than a schedule: water only once the top ~2 inches are dry, then let excess water drain fully. Bright indirect light is ideal."
+    },
+    {
+      "customer": "Ohhh ok. So less water. How do I actually tell when it's ready then, do I just guess?",
+      "agent": "No guessing needed: stick a clean finger about 2 inches into the soil.\n\n- **Dry at that depth:** it\u2019s ready for water.  \n- **Cool, damp, or soil clinging to your finger:** wait a few days and check again.\n\nWhen you do water, soak the soil evenly until a little drains from the bottom, then empty any water sitting in the saucer."
+    },
+    {
+      "customer": "finger two inches down, got it. and Should I cut the yellow leaves off or leave them?",
+      "agent": "If they\u2019re fully yellow, you can remove them\u2014they won\u2019t turn green again. Use clean scissors or pruners and snip the leaf stem close to the main stem without nicking it. If a leaf is only partly yellow, it\u2019s fine to leave it for now while you adjust watering."
+    },
+    {
+      "customer": "ok cool. one more \u00e2\u20ac\u201d it leans hard toward the window, is that bad or just dramatic",
+      "agent": "That\u2019s normal\u2014just your monstera reaching for the light. Rotate the pot about a quarter turn every week or two so it grows more evenly. If it\u2019s getting very lopsided or floppy, a small stake or moss pole can give it support."
+    },
+    {
+      "customer": "rotate it, love that. ok I feel much better",
+      "agent": "Glad to hear it! Your monstera sounds like it\u2019s in good hands."
+    },
+    {
+      "customer": "You've saved a life today. Thank you!",
+      "agent": "You\u2019re very welcome\u2014your monstera has a solid care plan now."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "conv-18",
+  "title": "The right to be forgotten",
+  "run_tag": "20260714-113518-961869.r2",
+  "transcript": [
+    {
+      "customer": "hi! hope your day's going well. I've decided to close things out with Frondly and I want to make sure my data is handled properly",
+      "agent": "I can help route your data request to the right human teammate, who will follow up with you directly."
+    },
+    {
+      "customer": "june.okafor@example.com, order ORD-9322, the big monstera and the ceramic planter. that's me.",
+      "agent": "Thanks\u2014I\u2019ve added those details to the request for the human teammate handling it."
+    },
+    {
+      "customer": "so what I want is a full deletion of all my personal data \u00e2\u20ac\u201d GDPR, CCPA, whichever applies to me, just wipe me from your systems entirely",
+      "agent": "I\u2019ve routed your full data-deletion request to the human team that handles privacy matters; they\u2019ll follow up directly."
+    },
+    {
+      "customer": "yeah I've been reading about this stuff and I want to actually exercise the right, not just unsubscribe from emails. full erasure.",
+      "agent": "Understood\u2014your request for full erasure, not just email unsubscribing, has been routed to the privacy team for handling."
+    },
+    {
+      "customer": "and while we're at it, cancel my subscription and refund my June box since I'm leaving anyway",
+      "agent": "Your subscription has been canceled. I\u2019ve sent the June refund request to a human teammate for review, and they\u2019ll follow up directly."
+    },
+    {
+      "customer": "I mean it's all part of the same thing to me \u00e2\u20ac\u201d I'm leaving, delete me, cancel me, refund me, one clean break",
+      "agent": "Understood. Your cancellation is complete, and the privacy and June refund requests are with the appropriate human teams for follow-up."
+    },
+    {
+      "customer": "ok that's fair. I appreciate you being straight with me about it",
+      "agent": "You\u2019re welcome\u2014thanks for understanding."
+    },
+    {
+      "customer": "so a human handles the whole thing together, the deletion and the cancel and the refund, all of it? nothing happens piecemeal?",
+      "agent": "Your subscription cancellation is already complete. The full-deletion request and June refund request have been routed for human follow-up; I can\u2019t promise they\u2019ll be handled as one combined process."
+    },
+    {
+      "customer": "great, that actually makes me feel better about it. thanks for being kind about the whole thing",
+      "agent": "You\u2019re very welcome."
+    }
+  ]
+}
